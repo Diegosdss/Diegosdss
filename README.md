@@ -19,7 +19,7 @@
  />
 
   
-  <img align="right" alt="Diegosdss-pic" height="150" style="border-radius:50px;" src="![image](https://user-images.githubusercontent.com/99222653/154819674-09a9f728-a1b7-4935-81c6-ff6b6a7a31cd.png)">
+  <img align="right" alt="Diegosdss-pic" height="150" style="border-radius:50px;" src="https://media.giphy.com/media/eSwGh3YK54JKU/giphy.gif">
 </div>
   
   ##
