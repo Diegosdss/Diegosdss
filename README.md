@@ -22,7 +22,8 @@
     <br></br>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Diegosdss&layout=compact&langs_count=7&theme=blue"/>
 </div>
-  
+
+  <br></br>
   
   <h1>🌊 Contatos</h1>
   <div style="display: inline_block"><br>
@@ -40,10 +41,10 @@
    <div> 
   <h1>🚀 Skills</h1>
   <div style="display: inline_block"><br>
-  <img align="center" alt="Diego-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Diego-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Diego-FLUTTER" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg">
-  <img align="center" alt="Diego-DART" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg"
+  <img align="center" alt="Diego-HTML" height="30" width="70" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
+  <img align="center" alt="Diego-CSS" height="30" width="70" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
+  <img align="center" alt="Diego-FLUTTER" height="30" width="70" src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white">
+  <img align="center" alt="Diego-DART" height="30" width="70" src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white"
  />
     
   
