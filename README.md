@@ -25,6 +25,8 @@
 
   <br></br>
   
+  <img align="right" width=450 height=400 src="https://media.giphy.com/media/cyMqOH8rjgDHG/giphy.gif">
+  
   <i><h1>🌊 Contatos</h1></i>
   <div style="display: inline_block"><br>
   
