@@ -1,9 +1,9 @@
-### <i><h2>Welcome to my profile</h2></i> 😎
+### <i><h2>Welcome to my profile</h2></i> 
 
-🔹Cursando TI
-🔹Aprendendo:
+🔹<i>Cursando TI</i>
+🔹<i>Aprendendo:
   Dart - Flutter /
-  HTML - CSS🔹
+  HTML - CSS</i>🔹
 
  ##
  <!-- IMAGEM -->
