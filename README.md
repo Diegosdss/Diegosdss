@@ -30,6 +30,8 @@
   <i><h1>🌊 Contatos</h1></i>
   <div style="display: inline_block"><br>
   
+  ##
+  
   <!-- SIMBOLOS DOS CONTATOS -->
   <div>
   <a href="https://www.youtube.com/channel/UCFU5V3Bebcfc890pulWmHTQ" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
