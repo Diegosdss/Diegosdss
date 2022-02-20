@@ -1,4 +1,4 @@
-### Bem-vindo ao meu perfil! Eu sou o Diego Guedes😎
+### Welcome to my profile 😎
 
 🔹Cursando TI
 🔹Aprendendo:
