@@ -1,8 +1,9 @@
 ### <i><h2>Welcome to my profile</h2></i> 
 
-🔸<strong> Meu nome é Diego, tenho 20 anos </strong>🔸
+🔹<strong> Meu nome é Diego, tenho 20 anos </strong>🔹
 <p>
-🔹<strong> Cursando TI</strong>
+🔸<strong> Cursando TI</strong>🔸
+  <p>
 🔹<strong> Aprendendo:
   Dart - Flutter /
   HTML - CSS </strong>🔹
