@@ -9,11 +9,11 @@
   HTML - CSS </strong>🔹
 
  ##
- <!-- IMAGEM -->
+    
+<!-- IMAGEM -->
 <body>
   <img align="right" alt="Diegosdss-pic" height="170" style="border-radius:50px;" src="https://media.giphy.com/media/eSwGh3YK54JKU/giphy.gif">
-  </body>
-  
+  </body> 
   
   <!-- TELINHA DOS GRÁFICOS-->
 <div align="center">
