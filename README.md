@@ -23,12 +23,6 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Diegosdss&layout=compact&langs_count=7&theme=Blue">
 </div>
 
-<br></br>
-<div>
-  
-
-</div>
-
   <br></br>
   
   <i><h1>🌊 Contatos</h1></i>
