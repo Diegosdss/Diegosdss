@@ -1,9 +1,11 @@
-### Welcome to my profile 😎
+### <i>Welcome to my profile</i> 😎
 
 🔹Cursando TI
 🔹Aprendendo:
   Dart - Flutter /
   HTML - CSS🔹
+
+ ##
 
 <div align="center">
   <a href="https://github.com/Diegosdss">
