@@ -18,9 +18,9 @@
   <!-- TELINHA DOS GRÁFICOS-->
 <div align="center">
   <a href="https://github.com/Diegosdss">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Diegosdss&show_icons=true&theme=blue&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Diegosdss&show_icons=true&theme=Blue&include_all_commits=true&count_private=true"/>
     <br></br>
-  <img align="center" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Diegosdss&layout=compact&langs_count=7&theme=blue">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Diegosdss&layout=compact&langs_count=7&theme=Blue">
 </div>
 
   <br></br>
