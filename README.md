@@ -23,7 +23,10 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Diegosdss&layout=compact&langs_count=7&theme=Blue">
 </div>
 
-
+<br></br>
+<div>
+<img align="right" alt="Diegosdss-pic" height="200" style="border-radius:50px;" src="https://media.giphy.com/media/THlB4bsoSA0Cc/giphy.gif">
+</div>
 
   <br></br>
   
