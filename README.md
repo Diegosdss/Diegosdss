@@ -30,7 +30,7 @@
   <i><h1>🌊 Contatos</h1></i>
   <div style="display: inline_block"><br>
   
-  ##
+  
   
   <!-- SIMBOLOS DOS CONTATOS -->
   <div>
@@ -40,6 +40,8 @@
  <a href="https://discord.gg/HZ4khmpp" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a>
   </div>
   
+  ##
+  
    <div> 
      <i><h1>🚀 Skills</h1></i>
   <div style="display: inline_block"><br>
@@ -48,10 +50,10 @@
   <img align="center" alt="Diego-FLUTTER" height="30" width="70" src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white">
   <img align="center" alt="Diego-DART" height="30" width="70" src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white"
  
- 
-  </div>  
-    <h1>🐍 Cobrinha</h1>
+  </div>    
     
+    
+  <h1>🐍 Cobrinha</h1>
      
   ![Snake animation](https://github.com/Diegosdss/Diegosdss/blob/output/github-contribution-grid-snake.svg)
   </div>
