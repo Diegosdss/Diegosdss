@@ -28,7 +28,7 @@
   
   <br></br>
   
-  <i><h1>🌊 Contatos</h1></i>
+  <i><h1 align="center">🌊 Contatos</h1></i>
   <div style="display: inline_block"><br>
   
   
