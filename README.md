@@ -1,7 +1,8 @@
 
 <i><h1 align="center">Welcome to my profile!</i><hr size="50"></h1>
 
-<div class="container">
+###
+
  <p align="center"> 🔹Meu nome é Diego, tenho 20 anos🔹 </p>
  <p align="center"> 🔸Cursando TI🔸 </p>
  <p align="center"> 🔹Aprendendo:
@@ -9,8 +10,7 @@
                      HTML - CSS  🔹 </p>
  
 <hr size="50">
-    
-  </div>  
+     
 <!-- IMAGEM -->
 <body>
   <div class="container-fluid">
