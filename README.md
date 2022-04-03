@@ -5,11 +5,11 @@
     
 <body>
 <hr size="50">
- <p><h4 align="center"> 🔹Meu nome é Diego Guedes, tenho 21 anos🔹</h4> </p>
- <p><h4 align="center"> 🔸Cursando TI🔸 </h4></p>
- <p><h4 align="center"> 🔹Aprendendo:
+ <p><h3 align="center"> 🔹Meu nome é Diego Guedes, tenho 21 anos🔹</h3> </p>
+ <p><h3 align="center"> 🔸Cursando TI🔸 </h3></p>
+ <p><h3 align="center"> 🔹Aprendendo:
                      Dart - Flutter /
-                     HTML - CSS  🔹 </h4></p>  
+                     HTML - CSS  🔹 </h3></p>  
  <hr size="50">
  
   <br><br>
