@@ -9,7 +9,7 @@
 🔹<strong> Aprendendo:
   Dart - Flutter /
   HTML - CSS </strong>🔹
-    
+    <p align=”left”></P>
 
  ##
     
