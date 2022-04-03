@@ -6,7 +6,7 @@
 🔹<strong> Meu nome é Diego, tenho 20 anos </strong>🔹
 <p>
 🔸<strong> Cursando TI</strong>🔸
-  <p>
+
 🔹<strong> Aprendendo:
   Dart - Flutter /
   HTML - CSS </strong>🔹
