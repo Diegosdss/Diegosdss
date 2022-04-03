@@ -1,6 +1,6 @@
 
   
-### <i><h1>Welcome to my profile</h1></i>                                                                              
+### <i><center><h1>Welcome to my profile</h1></center></i>                                                                              
 
 🔹<strong> Meu nome é Diego, tenho 20 anos </strong>🔹
 <p>
@@ -9,8 +9,6 @@
 🔹<strong> Aprendendo:
   Dart - Flutter /
   HTML - CSS </strong>🔹
-    <p align=”left”>dsdadsad</P>
-
  ##
     
     
