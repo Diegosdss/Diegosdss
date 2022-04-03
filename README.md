@@ -26,7 +26,6 @@
   <br></br>
   
   <i><h2 align="center">🌊 Contatos</h2></i>
-  <hr size="50">
   <div style="display: inline_block"><br>
   
   <!-- SIMBOLOS DOS CONTATOS -->
