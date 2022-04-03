@@ -41,10 +41,10 @@
  <a href="https://discord.gg/HZ4khmpp" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a>
   </div>
   
-  ##
- <br>
   
-   <div> 
+ <br><br>
+  
+   <div hr size="50"> 
      <i><h1 align="center">🚀 Skills</h1></i>
   <div align="center" style="display: inline_block"><br>
   <img align="center" alt="Diego-HTML" height="30" width="70" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
