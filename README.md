@@ -1,6 +1,7 @@
 
   
-### <i><h1>Welcome to my profile</h1></i>  <div class="d-inline-flex p-2">Welcome to my profile</div>                                                                                       
+### <i><h1>Welcome to my profile</h1></i>  
+<div class="d-inline-flex p-2">Welcome to my profile</div>                                                                                       
 
 🔹<strong> Meu nome é Diego, tenho 20 anos </strong>🔹
 <p>
