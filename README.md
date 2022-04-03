@@ -8,7 +8,7 @@
                      Dart - Flutter /
                      HTML - CSS  🔹 </p>
  
-<hr size="50">
+<hr size="100">
     
     
 <!-- IMAGEM -->
