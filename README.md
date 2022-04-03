@@ -1,34 +1,32 @@
-<p><i><h1 align="center">🔥 Welcome to my profile! 🔥</i></h1></p>
 
-###
-
+  <div class="container-fluid">
+  <img align="center" alt="Diegosdss-pic" height="250" width="100%"  style="border-radius:50px;" src="https://media.giphy.com/media/yT7us48nOugGaki9xR/giphy.gif">
+ </div> 
+    
+<body>
+<hr size="50">
  <p><h4 align="center"> 🔹Meu nome é Diego Guedes, tenho 21 anos🔹</h4> </p>
  <p><h4 align="center"> 🔸Cursando TI🔸 </h4></p>
  <p><h4 align="center"> 🔹Aprendendo:
                      Dart - Flutter /
-                     HTML - CSS  🔹 </h4></p>
+                     HTML - CSS  🔹 </h4></p>  
+ <hr size="50">
  
-##
-     
-<!-- IMAGEM -->
-<body>
- <br><br><br>
+  <br><br>
+ <!-- IMAGEM direita -->
   <div class="container-fluid">
   <img align="right" alt="Diegosdss-pic" height="170" style="border-radius:50px;" src="https://media.giphy.com/media/eSwGh3YK54JKU/giphy.gif">
-  </body> 
   
   <!-- TELINHA DOS GRÁFICOS-->
  <div align="center">
   <a href="https://github.com/Diegosdss">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Diegosdss&show_icons=true&theme=Blue&include_all_commits=true&count_private=true"/>
-   
-   <img height="190em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Diegosdss&layout=compact&langs_count=7&theme=Blue"/>
+  <img height="200em" src="https://github-readme-stats.vercel.app/api?username=Diegosdss&show_icons=true&theme=Blue&include_all_commits=true&count_private=true"/>
    </div
     <br></br>
   
   <br></br>
   
-  <i><h1 align="center">🌊 Contatos</h1></i>
+  <i><h2 align="center">🌊 Contatos</h2></i>
   <div style="display: inline_block"><br>
   
   <!-- SIMBOLOS DOS CONTATOS -->
@@ -39,23 +37,29 @@
  <a href="https://discord.gg/HZ4khmpp" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a>
   </div>
   
-  
- <br><br>
+ <br>
   
    <div> 
-     <i><h1 align="center">🚀 Skills</h1></i>
+     <i><h2 align="center">🚀 Skills</h2></i>
   <div align="center" style="display: inline_block"><br>
   <img align="center" alt="Diego-HTML" height="30" width="70" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
   <img align="center" alt="Diego-CSS" height="30" width="70" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
   <img align="center" alt="Diego-FLUTTER" height="30" width="70" src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white">
   <img align="center" alt="Diego-DART" height="30" width="70" src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white"
- 
+       
+       
   </div>    
   </div> 
+  </body>
     <br><br>
   
   ![Snake animation](https://github.com/Diegosdss/Diegosdss/blob/output/github-contribution-grid-snake.svg)
   </div>
+ 
+ 
+  <div class="container-fluid">
+  <img align="center" alt="Diegosdss-pic" height="250" width="100%"  style="border-radius:50px;" src=" https://i.pinimg.com/originals/16/03/fb/1603fb7077abb9093f4af305b4e5ce79.gif">
+ </div> 
      
     
   
