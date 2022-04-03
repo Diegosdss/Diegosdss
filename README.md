@@ -3,7 +3,7 @@
    
 ###                                                                               
 
-🔹<p align="center"> Meu nome é Diego, tenho 20 anos </p>
+ <p align="center"> 🔹Meu nome é Diego, tenho 20 anos🔹 </p>
 
 🔸<strong> Cursando TI</strong>🔸
 
