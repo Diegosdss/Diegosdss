@@ -1,7 +1,7 @@
 
 <i><h1 align="center">Welcome to my profile! </h1></i>
    
-<p color:#red> ### </p>                                                                               
+###                                                                            
 
  <p align="center"> 🔹Meu nome é Diego, tenho 20 anos🔹 </p>
  <p align="center"> 🔸Cursando TI🔸 </p>
