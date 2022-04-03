@@ -13,8 +13,12 @@
 
  ##
     
+    
 <!-- IMAGEM -->
 <body>
+  <div class="container-fluid">
+  ...
+
   <img align="right" alt="Diegosdss-pic" height="170" style="border-radius:50px;" src="https://media.giphy.com/media/eSwGh3YK54JKU/giphy.gif">
   </body> 
   
@@ -54,7 +58,7 @@
   <img align="center" alt="Diego-DART" height="30" width="70" src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white"
  
   </div>    
-    
+     </div> 
     
      
   ![Snake animation](https://github.com/Diegosdss/Diegosdss/blob/output/github-contribution-grid-snake.svg)
