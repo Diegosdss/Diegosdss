@@ -1,12 +1,12 @@
-<i><h1 align="center">🔥 Welcome to my profile! 🔥</i></h1>
+<p><i><h1 align="center">🔥 Welcome to my profile! 🔥</i></h1></p>
 
 ###
 
- <p align="center"> 🔹Meu nome é Diego Guedes, tenho 21 anos🔹 </p>
- <p align="center"> 🔸Cursando TI🔸 </p>
- <p align="center"> 🔹Aprendendo:
+ <p><h4 align="center"> 🔹Meu nome é Diego Guedes, tenho 21 anos🔹</h4> </p>
+ <p><h4 align="center"> 🔸Cursando TI🔸 </h4></p>
+ <p><h4 align="center"> 🔹Aprendendo:
                      Dart - Flutter /
-                     HTML - CSS  🔹 </p>
+                     HTML - CSS  🔹 </h4></p>
  
 ##
      
