@@ -1,6 +1,6 @@
 
-<i><h1 align="center">Welcome to my profile! </h1></i>
-<hr size="50">
+<i><h1 align="center">Welcome to my profile! 
+<hr size="50"></h1></i>
 
  <p align="center"> 🔹Meu nome é Diego, tenho 20 anos🔹 </p>
  <p align="center"> 🔸Cursando TI🔸 </p>
@@ -8,7 +8,7 @@
                      Dart - Flutter /
                      HTML - CSS  🔹 </p>
  
-<hr size="100">
+<hr size="50">
     
     
 <!-- IMAGEM -->
