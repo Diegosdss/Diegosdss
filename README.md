@@ -29,8 +29,8 @@
   <br></br>
   
   <i><h1 align="center">🌊 Contatos</h1></i>
-  <div style="display: inline_block"><br>
   
+  <hr size="50">
   
   
   <!-- SIMBOLOS DOS CONTATOS -->
@@ -44,7 +44,7 @@
   
  <br><br>
   
-   <div hr size="50"> 
+   <div> 
      <i><h1 align="center">🚀 Skills</h1></i>
   <div align="center" style="display: inline_block"><br>
   <img align="center" alt="Diego-HTML" height="30" width="70" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
