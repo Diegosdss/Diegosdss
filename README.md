@@ -1,6 +1,6 @@
 
-<i><h1 align="center">Welcome to my profile! </i>
-<hr size="50"></h1>
+<i><h1 align="center">Welcome to my profile!</i><hr size="50"></h1>
+
 
  <p align="center"> 🔹Meu nome é Diego, tenho 20 anos🔹 </p>
  <p align="center"> 🔸Cursando TI🔸 </p>
