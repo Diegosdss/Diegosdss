@@ -1,6 +1,6 @@
 
   
-### <i><center><h1>Welcome to my profile</h1></center></i>                                                                              
+### <i><h1><center>Welcome to my profile</center></h1></i>                                                                              
 
 🔹<strong> Meu nome é Diego, tenho 20 anos </strong>🔹
 <p>
