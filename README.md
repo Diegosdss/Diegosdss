@@ -4,8 +4,11 @@
 ###                                                                               
 
  <p align="center"> 🔹Meu nome é Diego, tenho 20 anos🔹 </p>
+ <p align="center"> 🔸Cursando TI🔸 </p>
+ <p align="center"> 🔹Aprendendo:
+                     Dart - Flutter /
+                     HTML - CSS  🔹 </p>
 
-🔸<strong> Cursando TI</strong>🔸
 
 🔹<strong> Aprendendo:
   Dart - Flutter /
