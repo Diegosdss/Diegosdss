@@ -2,7 +2,7 @@
 
 ###
 
- <p align="center"> 🔹Meu nome é Diego, tenho 20 anos🔹 </p>
+ <p align="center"> 🔹Meu nome é Diego Guedes, tenho 21 anos🔹 </p>
  <p align="center"> 🔸Cursando TI🔸 </p>
  <p align="center"> 🔹Aprendendo:
                      Dart - Flutter /
