@@ -1,6 +1,5 @@
 
 <i><h1 aling="center">Welcome to my profile</h1></i>
-<br>
    
 ###                                                                               
 
@@ -11,7 +10,7 @@
 🔹<strong> Aprendendo:
   Dart - Flutter /
   HTML - CSS </strong>🔹
- <br>   
+ 
  ##
     
     
