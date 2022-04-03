@@ -42,6 +42,7 @@
   </div>
   
   ##
+ <br>
   
    <div> 
      <i><h1 align="center">🚀 Skills</h1></i>
