@@ -1,5 +1,5 @@
 
-<i><h1 align="center">Welcome to my profile!</i><hr size="50"></h1>
+<i><h1 align="center">Welcome to my profile!</i></h1>
 
 ###
 
@@ -9,7 +9,7 @@
                      Dart - Flutter /
                      HTML - CSS  🔹 </p>
  
-<hr size="50">
+##
      
 <!-- IMAGEM -->
 <body>
