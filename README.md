@@ -23,7 +23,7 @@
   <a href="https://github.com/Diegosdss">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Diegosdss&show_icons=true&theme=Blue&include_all_commits=true&count_private=true"/>
     <br></br>
- <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafaballerini&layout=compact&langs_count=7&theme=dracula"/>
+ 
  <img height="190em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alehdias2&layout=compact&langs_count=7&theme=radical"/>
  </div>
 
