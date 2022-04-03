@@ -8,13 +8,8 @@
  <p align="center"> 🔹Aprendendo:
                      Dart - Flutter /
                      HTML - CSS  🔹 </p>
-
-
-🔹<strong> Aprendendo:
-  Dart - Flutter /
-  HTML - CSS </strong>🔹
  
- ##
+###
     
     
 <!-- IMAGEM -->
