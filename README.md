@@ -29,9 +29,7 @@
   <br></br>
   
   <i><h1 align="center">🌊 Contatos</h1></i>
-  
-  <hr size="50">
-  
+  <div style="display: inline_block"><br>
   
   <!-- SIMBOLOS DOS CONTATOS -->
   <div align="center">
@@ -54,7 +52,7 @@
  
   </div>    
   </div> 
-    
+    <br><br>
   
   ![Snake animation](https://github.com/Diegosdss/Diegosdss/blob/output/github-contribution-grid-snake.svg)
   </div>
