@@ -1,6 +1,6 @@
 
   <div class="container-fluid">
-  <img align="center" alt="Diegosdss-pic" height="250" width="100%"  style="border-radius:50px;" src="https://media.giphy.com/media/yT7us48nOugGaki9xR/giphy.gif">
+  <img align="center" alt="Diegosdss-pic" height="220" width="100%"  style="border-radius:50px;" src="https://media.giphy.com/media/yT7us48nOugGaki9xR/giphy.gif">
  </div> 
     
 <body>
