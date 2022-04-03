@@ -1,4 +1,3 @@
-
   <div class="container-fluid">
   <img align="center" alt="Diegosdss-pic" height="220" width="100%"  style="border-radius:50px;" src="https://media.giphy.com/media/yT7us48nOugGaki9xR/giphy.gif">
  </div> 
@@ -27,6 +26,7 @@
   <br></br>
   
   <i><h2 align="center">🌊 Contatos</h2></i>
+  <hr size="50">
   <div style="display: inline_block"><br>
   
   <!-- SIMBOLOS DOS CONTATOS -->
@@ -57,7 +57,7 @@
   </div>
  
  
-  <div class="container-fluid">
+  <div class="container">
   <img align="center" alt="Diegosdss-pic" height="250" width="100%"  style="border-radius:50px;" src=" https://i.pinimg.com/originals/16/03/fb/1603fb7077abb9093f4af305b4e5ce79.gif">
  </div> 
      
