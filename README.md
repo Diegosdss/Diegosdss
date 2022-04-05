@@ -4,8 +4,8 @@
     
 <body>
 <hr size="50">
- <p><h3 align="center"> 🔥 Cursando TI 🔥 </h3></p>
  <p><h3 align="center"> 🔥 Meu nome é Diego Guedes, tenho 21 anos 🔥</h3> </p>
+ <p><h3 align="center"> 🔥 Cursando TI 🔥 </h3></p>
  <p><h3 align="center"> 🔥 Aprendendo:
                      Dart - Flutter /
                      HTML - CSS  🔥</h3></p>  
